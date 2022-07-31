@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class hca {
+public class hipotenus {
     public static void main(String[] args) {
 
 
