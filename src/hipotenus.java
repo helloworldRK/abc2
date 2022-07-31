@@ -3,8 +3,8 @@ public class hca {
     public static void main(String[] args) {
 
 
-        int a, b;
-        double c;
+        int a, b,cevre;
+        double c,u ;
         Scanner inp = new Scanner(System.in);
         System.out.println("1.kenar");
         a = inp.nextInt();
@@ -12,6 +12,8 @@ public class hca {
         b = inp.nextInt();
         c = Math.sqrt((a * a) + (b * b));
         System.out.println("Hipotenus:"+c);
+
+
 
 
     }
